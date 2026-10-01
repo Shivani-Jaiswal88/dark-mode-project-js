@@ -21,7 +21,7 @@ A simple **Dark Mode / Light Mode toggle project** built using **HTML, CSS, and 
 
 ## 🚀 Live Demo
 
-👉 **[View Live Project](YOUR_LIVE_LINK_HERE)**
+👉 ** Your site is live at https://shivani-jaiswal88.github.io/dark-mode-project-js/
 
 ## 📂 Project Structure
 
