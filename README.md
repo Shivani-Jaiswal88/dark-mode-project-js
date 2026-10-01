@@ -32,10 +32,6 @@ dark-mode/
 ├── script.js
 └── README.md
 
-## 📸 Project Preview
-
-*Add your project screenshot here.*
-
 ## 👩‍💻 Author
 
 **Shivani Jaiswal**
