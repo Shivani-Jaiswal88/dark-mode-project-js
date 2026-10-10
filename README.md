@@ -1,37 +1,20 @@
-# dark-mode-project-js
-JavaScript Dark Mode Project 🌙 | A simple Dark/Light Mode toggle using HTML, CSS, and JavaScript.
+## Dark Mode Project
+JavaScript Dark Mode Project  A simple Dark/Light Mode toggle using HTML, CSS, and JavaScript.
+[live link]( https://shivani-jaiswal88.github.io/dark-mode-project-js/)
 
-# 🌙 Dark Mode Project
+# Features
 
-A simple **Dark Mode / Light Mode toggle project** built using **HTML, CSS, and JavaScript**.
+1. Dark Mode
+2. Light Mode
+3. Toggle between themes
+4. CSS Variables for theme colors
+5. JavaScript DOM manipulation
 
-## ✨ Features
+#Technologies Used
 
-* 🌙 Dark Mode
-* ☀️ Light Mode
-* 🔄 Toggle between themes
-* 🎨 CSS Variables for theme colors
-* ⚡ JavaScript DOM manipulation
+1. HTML5
+2. CSS3
+3. JavaScript
 
-## 🛠️ Technologies Used
 
-* HTML5
-* CSS3
-* JavaScript
 
-## 🚀 Live Demo
-
-👉 ** Your site is live at https://shivani-jaiswal88.github.io/dark-mode-project-js/
-
-## 📂 Project Structure
-
-dark-mode/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
-## 👩‍💻 Author
-
-**Shivani Jaiswal**
